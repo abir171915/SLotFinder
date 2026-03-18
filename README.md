@@ -38,7 +38,7 @@ Finding a parking spot in a busy city wastes time, fuel, and money.
 ## 📄 Research Paper
 
 The full research paper is included in this repository:  
-📎 SlotFinder_A_Spatio-temporal_based_Car_Parking_System.pdf
+📎 `SlotFinder_A_Spatio-temporal_based_Car_Parking_System.pdf`
 
 ---
 
