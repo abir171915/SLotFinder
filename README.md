@@ -1,4 +1,4 @@
-# 🅿️ SlotFinder — Smart Car Parking System
+# SlotFinder — Smart Car Parking System
 
 An AI-powered car parking solution that predicts parking slot availability 
 in real time using time and location data.  
